@@ -1,26 +1,17 @@
-🌸 Iris Flower Classification
-
+🎬 Movie Ratings Prediction
 📌 Project Overview
-
-This project classifies iris flowers into Setosa, Versicolor, and Virginica using flower measurements.
-
+This project predicts movie ratings based on user preferences and movie-related features.
 🔍 Dataset
-
-Iris dataset (built-in sklearn dataset)
-Features: Sepal length, Sepal width, Petal length, Petal width
-
+Movie ratings dataset
+User and movie attributes
 🧠 Techniques Used
-
-Supervised Learning
-Data Visualization
-Classification Algorithms
-
+Data Preprocessing
+Feature Encoding
+Regression Models
+Recommendation System Basics
 🛠 Tools & Libraries
-
 Python
 Pandas, NumPy
-Matplotlib, Seaborn
 Scikit-learn
-
 🎯 Result
-Achieved high accuracy on this classic machine learning benchmark dataset.
+Built a predictive model to estimate movie ratings effectively.
